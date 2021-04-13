@@ -51,19 +51,16 @@ button:active {
   background-color: rgba(220, 220, 220, 0.7);;
 }
 
-.operator,
-.equals {
+.operator {
   background-color: rgb(255, 140, 0);
   color: white;
 }
 
-.operator:hover,
-.equals:hover {
+.operator:hover {
   background-color: rgba(255, 140, 0, 0.9);
 }
 
-.operator:hover:active,
-.equals:hover:active {
+.operator:hover:active {
   background-color: rgba(255, 140, 0, 0.7);
 }
 
