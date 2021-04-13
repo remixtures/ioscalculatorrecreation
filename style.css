@@ -38,6 +38,7 @@ button {
   width: 24.5%;
   font-size: 32px;
   padding: 30px;
+  cursor: pointer;
   background-color: rgb(220, 220, 220);
   border: none;
   border-bottom: 1px solid black;
